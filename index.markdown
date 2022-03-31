@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hello! I am Knif3rism, an avid FPS/Rhythm game player and also a Curtin university graduate with a Bachelors of Science (Computing) studying Cyber-Security.

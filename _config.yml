@@ -19,8 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Knif3rism
-email: test
-description: >- 
+email: 
+description: >- #deez
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "Knif3rism.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Knif3rism
